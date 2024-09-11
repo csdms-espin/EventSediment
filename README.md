@@ -17,8 +17,9 @@ Contributors (listed in the alphabetic order of last name):
   - MotivationImg.jpg
   - shiaolinTWslide.jpg
 - Resulted GIF animations
-  - bad_connectivity_animation.gif
-  - good_connectivity_animation.gif
+  - good_connectivity_animation.gif: Simlated result on a synthetic landscape (Good Connectivity Scenario)
+  - bad_connectivity_animation.gif: Simlated result on a synthetic landscape (Bad Connectivity Scenario)
+  - real_landscape_animation.gif: Simlated result on a real landscape (Bad Connectivity Scenario)
 - Pickle files for various DEM
   - pre-slide_fakelandscape.pickle: generated fake landscape DEM
   - pre-slide_reallandscape.pickle: imported real landscape DEM
